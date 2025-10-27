@@ -4,6 +4,8 @@
 
 https://www.raspberrypi.com/software/
 
-2. ラズベリーパイの型式、入れるOS、ストレージを選択し書き込み
+2. microSDカードをPCへ接続
 
-3. 
+3. ラズベリーパイの型式、入れるOS、ストレージを選択し書き込み
+
+

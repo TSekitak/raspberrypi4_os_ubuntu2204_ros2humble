@@ -6,6 +6,6 @@ https://www.raspberrypi.com/software/
 
 2. microSDカードをPCへ接続
 
-3. ラズベリーパイの型式、入れるOS、ストレージを選択し書き込み
+3. raspberry pi imagerを起動し、ラズベリーパイの型式、入れるOS、ストレージを選択し書き込み
 
 

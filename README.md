@@ -15,3 +15,11 @@ https://www.raspberrypi.com/software/
 6. キーボード操作で初期設定
 
 7. ssh設定を有効化する
+
+過程で起こったこと
+
+1. network-configとuser-dataをmicroSDに書き込んで起動したが、動作がおかしくなった。
+
+2. 電源をpoweroffで切ったが、microSDが読み込めなくなった。
+
+3. sd formatterでクイックフォーマットして何とかなった。しかし、一歩間違えば破損させてしまうところだったので注意したい。

@@ -1,6 +1,6 @@
-# ラズベリーパイ4にUbuntu22.04をインストールし、ROS2Humble環境を構築する手順
+# ラズベリーパイ4にUbuntu Desktop 22.04をインストールし、ROS2 Humble環境を構築する手順
 
-1. raspberry pi imagerをインストール
+1. PCへraspberry pi imagerをインストール
 
 https://www.raspberrypi.com/software/
 
